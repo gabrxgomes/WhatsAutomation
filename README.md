@@ -1,0 +1,2 @@
+# WhatsAutomation
+Automatização de whatsapp.
