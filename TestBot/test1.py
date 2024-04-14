@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Número de telefone para enviar a mensagem
 
-numero_destino = "+5511930455478"
+numero_destino = "+5511977777777"
 # Mensagem que você deseja enviar
 mensagem = "Mensagem a ser enviada"
 
