@@ -12,6 +12,8 @@ mensagem = "Mensagem a ser enviada"
 hora_envio = 15
 minuto_envio = 36
 
+
+#adicionando um comentario via github mobile !
 # Tempo de espera em segundos (deve ser maior que 7 segundos)
 tempo_espera = 8
 
